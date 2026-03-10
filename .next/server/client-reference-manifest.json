@@ -63,14 +63,6 @@
         "chunks": [],
         "async": false
       }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -242,29 +234,9 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "/Users/owen/Documents/NewGitHub/willyougooutwithme/node_modules/next/dist/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/owen/Documents/NewGitHub/willyougooutwithme/node_modules/next/dist/esm/client/link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
     }
   },
   "entryCSSFiles": {
-    "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/page": {
-      "modules": [],
-      "files": []
-    },
     "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/layout": {
       "modules": [
         "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/style.css"
@@ -277,7 +249,7 @@
       "modules": [],
       "files": []
     },
-    "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/yay/page": {
+    "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/page": {
       "modules": [],
       "files": []
     }
