@@ -237,6 +237,10 @@
     }
   },
   "entryCSSFiles": {
+    "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/page": {
+      "modules": [],
+      "files": []
+    },
     "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/layout": {
       "modules": [
         "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/style.css"
@@ -249,7 +253,7 @@
       "modules": [],
       "files": []
     },
-    "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/page": {
+    "/Users/owen/Documents/NewGitHub/willyougooutwithme/app/yay/page": {
       "modules": [],
       "files": []
     }
